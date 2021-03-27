@@ -41,6 +41,15 @@ header div {
   padding: 0 20px;
 }
 
+.about-us {
+  color: aliceblue;
+}
+
+a:hover {
+  color: black;
+
+}
+
 /* white part */
 main {
   height: 360px;
@@ -102,6 +111,29 @@ button {
 .red-button {
   background-color: red;
 }
+
+/* testimonial */
+.testimonial {
+  height: 400px;
+  background-color: rgb(163, 198, 230);  
+}
+
+.testimonial-photo {
+  width: 300px;
+  margin-top: 50px;
+  border-radius: 50%;
+}
+
+.container {
+  display: flex;
+}
+
+.testimonial-text {
+  margin: 50px 50px;
+  padding-top: 50px;
+  width: 300px;
+}
+
 
 /* footer */
 
